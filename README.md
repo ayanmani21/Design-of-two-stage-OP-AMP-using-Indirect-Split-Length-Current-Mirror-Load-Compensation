@@ -1,0 +1,1 @@
+Designed a two stage OP-AMP on Cadence Virtuoso Tool. Made a comparison between two OP-AMP compensation techniques, Miller Compensation Technique and Indirect Compensated Split Length Current Mirror Load Technique.
